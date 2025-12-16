@@ -9,3 +9,7 @@ tests/
 docs/
 .git
 .gitignore
+.env
+__pycache__/
+*.pyc
+venv/
